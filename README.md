@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Varadha25
-- 👀 I’m interested in ...software developer
+- 👀 I’m interested in ...software developing
 - 🌱 I’m currently learning ...python language
 - 💞️ I’m looking to collaborate on ...software company's
 - 📫 How to reach me ...9489374299
